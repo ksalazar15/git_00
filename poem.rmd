@@ -43,5 +43,30 @@ Had got no business to be there
 After the day was done —  
 "It's very rude of him," she said,  
 "To come and spoil the fun."  
+
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+I love to code in R  
+It makes me feel like a star  
+I can manipulate data frames  
+And give them fancy names  
+
+I can run all kinds of tests  
+And plot the results with ggplot2  
+I can use tidyverse and dplyr  
+And make my code cleaner and faster  
+
+I can write functions and loops  
+And avoid all kinds of bugs  
+I can use R Markdown and Shiny  
+And make my reports interactive and shiny  
+
+I can learn from many packages  
+And join the R community  
+I can share my code on GitHub  
+And get feedback from other R lovers  
+
+R is more than a language  
+It is a way of thinking  
+R is more than a tool  
+It is a source of joy  
